@@ -1,0 +1,4 @@
+This folder contains the excel sheets:
+- dataEvaluation (all the data represented in a readable way with median)
+- WilcoxonSignedRankedTestEnvironments (the Jasp file with the evaluation of the different environments done with the wilcoxson signed ranked test)
+- WilcoxonSignedRankedTestGenders (the Jasp file with the evaluation of the difference between the genders done with the wilcoxson signed ranked test)
