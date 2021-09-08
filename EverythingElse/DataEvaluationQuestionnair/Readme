@@ -1,6 +1,0 @@
-This folder contains the excel sheets:
-- dataEvaluation (all the data represented in a readable way with median - Gender difference with Mann-Whitney-U Test)
-- WilcoxonSignedRankedTestEnvironments (the Jasp file with the evaluation of the different environments done with the wilcoxson signed ranked test)
-- Friedmantest (the Jasp file with the evaluation of the different environments done with the friedmantest)
-- EEG-DataAnalysis (Excel file with all the AlphaAsymetryIndex and the Sheet that helped calculate them)
-- CSV files from both the Questionnaire and EEG data evaluation
